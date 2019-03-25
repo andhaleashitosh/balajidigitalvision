@@ -20,6 +20,7 @@
 }
 .navbar-nav li a {
     float: right;
+    color: #fff;
     text-align: left;
 }
 #nav-bar ul li a:hover{
