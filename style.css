@@ -20,7 +20,7 @@
 }
 .navbar-nav li a {
     float: right;
-    color: #fff;
+    
     text-align: left;
 }
 #nav-bar ul li a:hover{
@@ -32,7 +32,7 @@
     border: none;
 }
 .nav-link {
-    color: #555;
+    color: #fff;
     font-weight: 600;
     font-size: 16px;
 }
